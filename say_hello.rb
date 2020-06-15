@@ -3,6 +3,3 @@
 
 say_hello("Kent Beck")
 # > Hello Kent Beck!
-
-say_hello("Ruby Programmer")
-# > Hello Ruby Programmer!
