@@ -2,4 +2,6 @@
 
 say_hello("Kent Beck", language="Ruby Programmer")
 
-say_hello()
+say_hello("Kent Beck")
+
+say_hello("Kent Beck", )
