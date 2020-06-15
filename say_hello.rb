@@ -6,3 +6,5 @@ end
 
 say_hello 
 # > Hello, Ruby Programmer!
+
+say_hello(name)
