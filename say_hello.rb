@@ -5,7 +5,7 @@ def say_hello(name = "Kent Beck", language = "Ruby Programmer")
 end
 
 say_hello("Kent Beck")
-# > Hello, Kent Beck!
+# > Hello Kent Beck!
 
 say_hello 
-# > Hello, Ruby Programmer!
+# > Hello Ruby Programmer!
