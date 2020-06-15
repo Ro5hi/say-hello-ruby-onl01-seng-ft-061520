@@ -2,3 +2,4 @@
 
 # > Hello Kent Beck
 say_hello("Kent Beck")
+puts
