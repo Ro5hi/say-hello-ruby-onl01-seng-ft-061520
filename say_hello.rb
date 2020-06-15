@@ -5,4 +5,4 @@ say_hello("Kent Beck")
 # > Hello Kent Beck!
 
 say_hello("Ruby Programmer")
-# > Hello Kent Beck, 
+# > Hello Ruby Programmer
