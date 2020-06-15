@@ -7,4 +7,5 @@ end
 say_hello 
 # > Hello, Ruby Programmer!
 
-say_hello(name)
+say_hello("Kent Beck")
+# > Hello, Kent Beck!
