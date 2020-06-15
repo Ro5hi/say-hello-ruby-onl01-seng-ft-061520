@@ -1,7 +1,7 @@
 # Build your say_hello method here
 
 def say_hello(name = "Kent Beck", language = "Ruby Programmer")
-  phrase = ""
+  phrase = "Hello Kent Beck!"
   puts "Hello, #{name}!"
 end
 
