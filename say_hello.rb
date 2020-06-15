@@ -2,7 +2,7 @@
 
 def say_hello(name = "Kent Beck", language = "Ruby Programmer")
   phrase = "Hello Kent Beck!"
-  puts "Hello, #{name}!"
+  puts phrase "Hello, #{name}!"
 end
 
 say_hello("Kent Beck")
